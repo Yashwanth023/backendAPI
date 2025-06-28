@@ -1,4 +1,3 @@
-
 # Book Review Service - Backend Engineer Technical Assessment
 
 ## Project Overview
